@@ -24,38 +24,56 @@ Some calculation :
 
 
 Population Bangladesh
+
 People on per km 1114.4067425628516
+
 1% percent of total population 1644530.03
+
 1% percent population per km 11.144067425628515
 
 
 Population on Dhaka
+
 People on per km 68556.98433420366
+
 1% percent of total population 210058.6
+
 1% percent population per km 685.5698433420366
 
 
 Population on New York
+
 People on per km 24802.843837713703
+
 1% percent of total population 194404.69
+
 1% percent population per km 248.02843837713704
 
 
 Population on England
+
 People on per km 520.2235361785345
+
 1% percent of total population 678345.48
+
 1% percent population per km 5.202235361785345
 
 
 Population of Italy
+
 People on per km 200.64454532783785
+
 1% percent of total population 604618.26
+
 1% percent population per km 2.0064454532783786
 
 
 Population of US
+
 People on per km 33.518801606670735
+
 1% percent of total population 3296238.95
+
 1% percent population per km 0.33518801606670734
 
 
