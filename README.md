@@ -49,15 +49,14 @@ France population density for 1% per km:
 
 
 
-
-!@$@$#%#%#^#^%#*&(@*!&*&@&^!#%^%!%@&!^#
+-----------------------------------------------------------------------------------------------------------------------------
 Dhaka and New York
 
 -----------------------------------------------------------------------------------------------------------------------------
 Dhaka population density for 1% per km : 
 685.61
 
-About 1.10 core people leave the city at present now, so current population about 1 core, the density should be almost 300/km^2
+About 1.10 core people leave the city at present now, so current population about 1 core, the density should be almost 326/km^2
 
 -----------------------------------------------------------------------------------------------------------------------------
 New York population density for 1% per km : 
